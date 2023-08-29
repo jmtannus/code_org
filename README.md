@@ -15,5 +15,9 @@ paginas dos exercícios feitos no site code.org
   
   >[Make a scene: Invasão Espacial](https://studio.code.org/projects/spritelab/MEzy56xUZXnaOabaLSJ6vWJDWTnDP8QWKTr9nChREHY)
   
-  >[Dance Party]()
+  >[Dance Party](https://studio.code.org/projects/dance/stLu4LYWpL5Lx8MDgRkR94con7VlYT4-GTragq9g3rs)
+
+  >[Mini-Project: Stick Art]: (https://studio.code.org/projects/artist/-IlswA7wCR5xc36WUae1eZNTV-bFxFgAqXNfFhkmJ1M)
+
+  >
 
