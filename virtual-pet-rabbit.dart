@@ -1,4 +1,3 @@
-//Add another when touches block to your code. Select your pet and its toy or friend.
 function patrolling(this_sprite) {
   moveForward(this_sprite, getProp(this_sprite, "speed"));
   if (isTouchingEdges(this_sprite)) {
@@ -147,6 +146,10 @@ addBehaviorSimple(({costume: "face_carrot_1"}), draggable());
 makeNewSpriteAnon("cuteanimals_penguin_1", ({"x":176,"y":360}));
 setProp(({costume: "cuteanimals_penguin_1"}), "scale", 70);
 addBehaviorSimple(({costume: "cuteanimals_penguin_1"}), draggable());
+
+spriteClicked("when", ({costume: "cuteanimals_bunny2_1"}), function (extraArgs) {
+  addBehaviorSimple(({costume: "cuteanimals_bunny2_1"}), new Behavior(jittering, []));
+});
 
 spriteClicked("when", ({costume: "cuteanimals_bunny2_1"}), function (extraArgs) {
   addBehaviorSimple(({costume: "cuteanimals_bunny2_1"}), draggable());
