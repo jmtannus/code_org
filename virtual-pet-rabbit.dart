@@ -1,3 +1,4 @@
+//Add another when touches block to your code. Select your pet and its toy or friend.
 function patrolling(this_sprite) {
   moveForward(this_sprite, getProp(this_sprite, "speed"));
   if (isTouchingEdges(this_sprite)) {
@@ -147,9 +148,23 @@ makeNewSpriteAnon("cuteanimals_penguin_1", ({"x":176,"y":360}));
 setProp(({costume: "cuteanimals_penguin_1"}), "scale", 70);
 addBehaviorSimple(({costume: "cuteanimals_penguin_1"}), draggable());
 
+spriteClicked("when", ({costume: "cuteanimals_bunny2_1"}), function (extraArgs) {
+  addBehaviorSimple(({costume: "cuteanimals_bunny2_1"}), draggable());
+  playSound('sound://category_animals/cartoon_creature_accent_2.mp3');
+});
+
 checkTouching("when", ({costume: "face_carrot_1"}), ({costume: "cuteanimals_bunny2_1"}), function (extraArgs) {
   changePropBy(({costume: "cuteanimals_bunny2_1"}), "scale", 222);
   playSound('sound://category_collect/clicky_crunch.mp3');
+});
+
+checkTouching("when", ({costume: "cuteanimals_bunny2_1"}), ({costume: "face_carrot_1"}), function (extraArgs) {
+  changePropBy(({costume: "cuteanimals_bunny2_1"}), "rotation", 10);
+  addBehaviorSimple(({costume: "cuteanimals_bunny2_1"}), new Behavior(wobbling, []));
+});
+
+checkTouching("while", ({costume: "cuteanimals_bunny2_1"}), ({costume: "cuteanimals_penguin_1"}), function (extraArgs) {
+  addBehaviorSimple(({costume: "cuteanimals_penguin_1"}), new Behavior(shrinking, []));
 });
 
 checkTouching("when", ({costume: "cuteanimals_penguin_1"}), ({costume: "cuteanimals_bunny2_1"}), function (extraArgs) {
