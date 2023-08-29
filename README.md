@@ -19,5 +19,5 @@ paginas dos exercícios feitos no site code.org
 
   >[Mini-Project: Stick Art: Lhama com chapéu de peru](https://studio.code.org/projects/artist/-IlswA7wCR5xc36WUae1eZNTV-bFxFgAqXNfFhkmJ1M)
 
-  >
+  >[Mini-Project: Stick Art: Lhama com chapéu de peru, loop:6, virar à esquerda(10°)](https://studio.code.org/projects/artist/-IlswA7wCR5xc36WUae1eZNTV-bFxFgAqXNfFhkmJ1M)
 
