@@ -14,4 +14,12 @@ paginas dos exercícios feitos no site code.org
   >[Make a scene: Leão e raposa](https://studio.code.org/projects/spritelab/HZvlWp2ys2C5ZHqjwH_v1pXoT8S5iH8SXjb7oqH6Dwc)
   
   >[Make a scene: Invasão Espacial](https://studio.code.org/projects/spritelab/MEzy56xUZXnaOabaLSJ6vWJDWTnDP8QWKTr9nChREHY)
+  
+  >[Dance Party: If I can´t have you - Shawn Mendes](https://studio.code.org/projects/dance/stLu4LYWpL5Lx8MDgRkR94con7VlYT4-GTragq9g3rs)
+
+  >[Mini-Project: Stick Art: Lhama com chapéu de peru](https://studio.code.org/projects/artist/-IlswA7wCR5xc36WUae1eZNTV-bFxFgAqXNfFhkmJ1M)
+
+  >[Mini-Project: Stick Art: Lhama com chapéu de peru, loop:6, virar à esquerda(10°)](https://studio.code.org/projects/artist/-IlswA7wCR5xc36WUae1eZNTV-bFxFgAqXNfFhkmJ1M)
+
+  >[Mini-Project: Stick Art: Mandala: Alienigenas x Red Angry Bird](https://studio.code.org/c/2010697822)
 
