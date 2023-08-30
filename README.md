@@ -23,3 +23,5 @@ paginas dos exercícios feitos no site code.org
 
   >[Mini-Project: Stick Art: Mandala: Alienigenas x Red Angry Bird](https://studio.code.org/c/2010697822)
 
+  >[Snowflakes with Elsa: parte1](https://studio.code.org/c/1983779748)
+
