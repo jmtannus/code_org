@@ -23,5 +23,15 @@ paginas dos exercícios feitos no site code.org
 
   >[Mini-Project: Stick Art: Mandala: Alienigenas x Red Angry Bird](https://studio.code.org/c/2010697822)
 
+## CRIANDO FLOCOS DE NEVE COM ELSA ❄️❄️❄️❄️❄️
+
   >[Snowflakes with Elsa: parte1](https://studio.code.org/c/1983779748)
+
+  >[Snowflakes with Elsa: parte2](https://studio.code.org/projects/frozen/0G366WRoMnQGNy5GsXUe2JJmR_41Hww1hmOMbkU9mCQ)
+
+  >[Snowflakes with Elsa: parte3](https://studio.code.org/projects/frozen/0G366WRoMnQGNy5GsXUe2JJmR_41Hww1hmOMbkU9mCQ)
+
+  >[Snowflakes with Elsa: parte final](https://studio.code.org/projects/frozen/0G366WRoMnQGNy5GsXUe2JJmR_41Hww1hmOMbkU9mCQ)
+  
+  >[Minecraft]()
 
